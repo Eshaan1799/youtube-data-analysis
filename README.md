@@ -3,7 +3,7 @@ It is data engineering project which takes trending youtube dataset from kaggle,
 Services used - 
 
 
-AWS S3 
-AWS Athena 
-AWS Lambda 
+AWS S3, 
+AWS Athena, 
+AWS Lambda ,
 AWS Quicksight 
